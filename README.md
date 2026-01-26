@@ -4,7 +4,7 @@
 
 I am a first-year Information Systems student at **IFF (Instituto Federal Fluminense)**, with a background as an **Integrated Business Technician**, which provided me with a solid understanding of organizational processes and management fundamentals.
 
-I am currently building my foundation in technology, focusing on Python, SQL, and programming logic. My goal is to develop practical skills through projects and learning experiences that prepare me for future opportunities in software development and data analysis.
+I am currently building my foundation in technology, focusing on Python, SQL, and programming logic. My goal is to develop practical skills through projects and acquire experiences that prepare me for future opportunities in software development and data analysis.
 
 🎯 My Goals for 2026
 * Build a solid foundation in **Algorithms and Data Structures** at IFF.
