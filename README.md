@@ -8,7 +8,7 @@ I am currently building my foundation in technology, focusing on Python, SQL, an
 
 🎯 My Goals for 2026
 * Build a solid foundation in **Algorithms and Data Structures** at IFF.
-* Develop my first small automation projects with **Python**.
+* Develop my first automation projects with **Python**.
 * Connect with the tech community to learn and grow.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jot_slkkj)
